@@ -19,7 +19,12 @@ console.log(Secondage)
 console.log(age)
 
 
+// Var and let difference 
+
 // CONST 
 const productID = 118415;
-productID = 1846;
-console.log(productID)
+
+
+// productID = 1846;  //You can't change the const value 
+
+console.log(`${productID}`)
