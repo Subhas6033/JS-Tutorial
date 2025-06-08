@@ -1,0 +1,33 @@
+console.log('Hello World!') //Normal Print
+console.warn('Hello World!') //Warning sent
+console.error('ERROR') //error sent
+
+// Comment 
+
+// Single line comment for commenting one line
+
+
+
+/* Multiple line 
+
+
+brvaeihfv vrhav  v
+vcbsaf v
+
+
+*/
+
+
+console.log("Hello !");
+
+
+// Template literal
+
+let fullNameame = 'shubhojit';
+let age = 20;
+
+console.log('Hello', fullNameame)
+// console.log('from 1st line  Hii ' + fullNameame, 'Your age is :' , age)
+
+
+console.log(`Hello ${fullNameame}. Your age is : ${age}`)
