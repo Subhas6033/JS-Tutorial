@@ -27,3 +27,22 @@ This repo is designed to help beginners and intermediate learners understand the
 
 ---
 
+## 📬 Contact
+
+<p>
+  Created with 💙 by Subhas Mondal  </br>
+  <i>
+    For questions or feedback: 
+    <a href='mailto:sm2733@it.jgec.ac.in'> 
+      sm2733@it.jgec.ac.in
+  </a></i>
+</p>
+
+---
+
+<p align="center">
+  Made with 💻 + ☕ | Happy Coding! 👨‍💻👩‍💻 <br/>
+  ⭐ Star this repository if you find it helpful!
+</p>
+
+
